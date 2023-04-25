@@ -120,3 +120,6 @@ body{
   li{
     list-style: circle;
   }
+  nav li {
+    list-style: none;
+  }
